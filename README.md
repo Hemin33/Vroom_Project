@@ -1,11 +1,4 @@
 # Vroom_Project
-Arrange all the files in a proper manner : 
-
-![Screenshot (163)](https://github.com/Hemin33/Vroom_Project/assets/169338082/1616e921-a968-4158-8cdb-9bbe00454298)  ![Screenshot (164)](https://github.com/Hemin33/Vroom_Project/assets/169338082/712e2b30-7e50-4859-81d9-b65e3d58a5ec)
-
-
-![Screenshot (165)](https://github.com/Hemin33/Vroom_Project/assets/169338082/496a6b3c-819c-4597-9739-7fa4cf6f393f)  ![Screenshot (166)](https://github.com/Hemin33/Vroom_Project/assets/169338082/bf2c56fb-09fd-48e7-a1fd-1837320a02ec)
-  
 
 1) Home Page :
    
